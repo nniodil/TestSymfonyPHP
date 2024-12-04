@@ -9,5 +9,6 @@
 
 5. Supprimer une tâche : curl -X DELETE http://localhost:8000/tasks/1
 
+J'ai fait le question 1 à 3 et je me suis retrouvée bloqué lors de l'execution des commandes disant que le controlleur est en privée 
 
 J'ai essayer d'aller au plus simple et à l'essentiel car je decouvre le Symfony et une autre maniere d'utiliser le PHP.
