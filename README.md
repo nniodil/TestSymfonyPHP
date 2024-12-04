@@ -8,3 +8,6 @@
 4. Modifier une tâche : curl -X PUT http://localhost:8000/tasks/1 \-H "Content-Type: application/json" \-d '{"title": "Test2", "status": "en_Cours"}'
 
 5. Supprimer une tâche : curl -X DELETE http://localhost:8000/tasks/1
+
+
+J'ai essayer d'aller au plus simple et à l'essentiel car je decouvre le Symfony et une autre maniere d'utiliser le PHP.
